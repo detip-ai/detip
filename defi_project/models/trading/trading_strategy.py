@@ -1,7 +1,3 @@
-"""
-Trading Strategy Model
-Provides AI-driven trading strategy optimization and execution
-"""
 import logging
 import numpy as np
 import pandas as pd
